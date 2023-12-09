@@ -1,17 +1,21 @@
 <h1 align="center">Bonjour 👋, je suis Bastien Esquiros</h1>
-<h3 align="center">Un développeur Java & Spring Boot</h3>
+<h3 align="center">Un développeur Java ☕ & Spring Boot 🍂</h3>
+<br/>
+<b>Actuellement en poste, c'est pourquoi le nombre de commits stagne ici </b>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastienesquiros&label=Visiteurs&color=000000&style=flat" alt="bastienesquiros" /> </p
+
+
+
 <a  target="blank" href="https://www.codewars.com/users/bastienesquiros1/"><img src="https://www.codewars.com/users/bastienesquiros1/badges/large"/></a>
 
-<b>Actuellement en poste, c'est pourquoi le nombre de commits stagne ici </b>
+
 
 
 
 <h3 align="left">Me contacter:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bastienesquiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastienesquiros" /></a>
-<a href="mailto:bastien.esquiros@hotmail.com" target="blank"><img align="center" src="https://freepngimg.com/download/gmail/66405-computer-icons-client-user-email-gmail.png"  height="30" width="40"/></a>
+<a href="https://linkedin.com/in/bastienesquiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40"/></a>
+<a href="mailto:bastien.esquiros@hotmail.com" target="blank"><img align="center" src="https://freepngimg.com/download/gmail/66405-computer-icons-client-user-email-gmail.png"  height="30" width="40" alt="bastienesquiros"/></a>
 </p>
 
 <h3 align="left">Ma stack:</h3>
@@ -19,6 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=dark&locale=en&layout=compact" alt="bastienesquiros" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=dark&locale=en" alt="bastienesquiros" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bastienesquiros&theme=dark" alt="bastienesquiros" /></p>
