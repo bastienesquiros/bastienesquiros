@@ -2,6 +2,7 @@
 <h3 align="center">Un développeur Java & Spring Boot</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bastienesquiros&label=Visiteurs&color=000000&style=flat" alt="bastienesquiros" /> </p>
+<br/>
 <p><img align="left" src="https://www.codewars.com/users/bastienesquiros1/badges/large" alt="bastienesquiros" /></p>
 
 - 🔭 Actuellement en poste à CGI, c'est pourquoi le nombre de commits stagne ici **;)**
