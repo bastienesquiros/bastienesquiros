@@ -1,15 +1,17 @@
 <h1 align="center">Bonjour 👋, je suis Bastien Esquiros</h1>
 <h3 align="center">Un développeur Java & Spring Boot</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bastienesquiros&label=Visiteurs&color=000000&style=flat" alt="bastienesquiros" /> <a href="https://www.codewars.com/users/bastienesquiros1/"></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bastienesquiros&label=Visiteurs&color=000000&style=flat" alt="bastienesquiros" /> </p
+<a  target="blank" href="https://www.codewars.com/users/bastienesquiros1/"><img src="https://www.codewars.com/users/bastienesquiros1/badges/large"/></a>
 
-<p>- 🔭 Actuellement en poste à CGI, c'est pourquoi le nombre de commits stagne ici **;)**</p>
+<b>Actuellement en poste, c'est pourquoi le nombre de commits stagne ici </b>
 
-<p>- 📫 Me contacter: **bastien.esquiros@hotmail.com**</p>
 
-<h3 align="left">Linkedin:</h3>
+
+<h3 align="left">Me contacter:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bastienesquiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastienesquiros" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bastienesquiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bastienesquiros" /></a>
+<a href="mailto:bastien.esquiros@hotmail.com" target="blank"><img align="center" src="https://freepngimg.com/download/gmail/66405-computer-icons-client-user-email-gmail.png"  height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Ma stack:</h3>
