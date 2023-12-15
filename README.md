@@ -1,5 +1,5 @@
 <h1 style="text-align: center;">Bonjour 👋, je suis Bastien Esquiros</h1>
-<h3 style="text-align: center;">Un développeur Java ☕ & Spring Boot 🍂</h3>
+<h3 style="text-align: center;">Un développeur Java ☕ & Spring Boot 🍃</h3>
 <br/>
 <b style="text-align: center;">Actuellement en poste, c'est pourquoi le nombre de commits stagne ici 👨‍💼</b>
 <br/>
