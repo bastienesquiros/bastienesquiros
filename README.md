@@ -1,12 +1,26 @@
-<h1 style="text-align: center;">Bonjour 👋, je suis Bastien</h1>
-<h3 style="text-align: center;">Un développeur Java ☕ & Spring Boot 🍃</h3>
+<h1 align="center">Salut 👋, je suis Bastien</h1>
+<h3 align="center">Développeur Java ☕</h3>
 <br/>
-<b style="text-align: center;">Actuellement en poste, c'est pourquoi le nombre de commits stagne ici 👨‍💼</b>
+<p align="center">
+  <b>Actuellement en poste, mais toujours prêt à explorer de nouveaux défis ! 💼</b>
+</p>
 <br/>
-<br/>
-<div style="display: flex; flex-direction: column; align-items: center; margin-top: 20px;">
-  <p style="margin: 10px 0;"><a target="_blank" href="https://www.codewars.com/users/bastienesquiros1/"><img src="https://www.codewars.com/users/bastienesquiros1/badges/large?theme=light" /></a></p>
-  <p style="margin: 10px 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=light&locale=en&layout=compact" alt="bastienesquiros" /></p>
-  <p style="margin: 10px 0;"><img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=light&locale=en" alt="bastienesquiros" /></p>
-  <p style="margin: 10px 0;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bastienesquiros&theme=light" alt="bastienesquiros" /></p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/bastienesquiros/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:bastien.esquiros@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/bastienesquiros" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=light&locale=en&layout=compact" alt="Top languages" />
+</p>
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=light&locale=en" alt="Statistiques GitHub" />
+</p>
