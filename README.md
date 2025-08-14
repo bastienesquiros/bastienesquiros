@@ -41,11 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=transparent" alt="Stats GitHub" />
 </p>
 
----
-
-### 💡 Fun fact
-> Je peux parler pendant des heures de Java… mais je déteste le CSS. 😅
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" />
