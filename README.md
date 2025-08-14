@@ -1,26 +1,52 @@
-<h1 align="center">Salut 👋, je suis Bastien</h1>
-<h3 align="center">Développeur Java ☕</h3>
-<br/>
+<!-- Bannière minimaliste -->
 <p align="center">
-  <b>Actuellement en poste, mais toujours prêt à explorer de nouveaux défis ! 💼</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=header&text=Bastien%20Esquiros&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bannière" />
 </p>
-<br/>
-<div align="center">
-  <a href="https://www.linkedin.com/in/bastienesquiros/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+<!-- Animation Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Développeur+Java+☕;Crafting+Clean+%26+Scalable+Code;Toujours+prêt+pour+de+nouveaux+d%C3%A9fis" alt="Typing SVG" />
+</p>
+
+---
+
+### 🌐 Me retrouver
+<p align="center">
+  <a href="https://www.linkedin.com/in/bastienesquiros/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:bastien.esquiros@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/bastienesquiros" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/bastienesquiros">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</div>
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=light&locale=en&layout=compact" alt="Top languages" />
 </p>
-<br/>
+
+---
+
+### 🛠️ Stack technique
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=light&locale=en" alt="Statistiques GitHub" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,git,github,linux&theme=light" />
+</p>
+
+---
+
+### 📊 Mes Stats GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=transparent&layout=compact" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=transparent" alt="Stats GitHub" />
+</p>
+
+---
+
+### 💡 Fun fact
+> Je peux parler pendant des heures de Java… mais je déteste le CSS. 😅
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" />
 </p>
