@@ -1,11 +1,11 @@
 <!-- Bannière minimaliste -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=150&section=header&text=Bastien%20Esquiros&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=849324&height=150&section=header&text=Bastien%20Esquiros&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bannière" />
 </p>
 
 <!-- Animation Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=500&lines=Développeur+Java+☕;Crafting+Clean+%26+Scalable+Code;Toujours+prêt+pour+de+nouveaux+d%C3%A9fis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=849324&center=true&vCenter=true&width=500&lines=Développeur+Java+☕;Crafting+Clean+%26+Scalable+Code;Toujours+prêt+pour+de+nouveaux+d%C3%A9fis" alt="Typing SVG" />
 </p>
 
 ---
