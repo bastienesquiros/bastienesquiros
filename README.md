@@ -1,6 +1,6 @@
 <!-- Bannière minimaliste -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=849324&height=150&section=header&text=Bastien%20Esquiros&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Bannière" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=849324&text=Bastien%20Esquiros" alt="Bannière" />
 </p>
 
 <!-- Animation Typing -->
