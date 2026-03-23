@@ -34,9 +34,9 @@
 
 ### 📊 Mes Stats GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=radical&layout=compact&bg_color=1F7A63" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bastienesquiros&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=radical&bg_color=1F7A63" alt="Stats GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bastienesquiros&show_icons=true&theme=radical" alt="Stats GitHub" />
 </p>
